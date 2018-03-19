@@ -1,0 +1,4 @@
+[2018-03-08 12:01:25.318] [renderer1] [error] Git model not found
+[2018-03-08 12:01:52.373] [renderer1] [error] Git model not found
+[2018-03-08 12:19:22.709] [renderer1] [error] Git model not found
+[2018-03-08 12:19:23.717] [renderer1] [error] Error: Inotify limit reached (ENOSPC)
